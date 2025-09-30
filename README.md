@@ -4,29 +4,11 @@ This repository contains Python solutions to a set of foundational exercises foc
 
 Each problem is solved using clean, PEP8-compliant code, tested with pylint to ensure a perfect score of 10.0/10.0
 
-isc_sef_python_programming/
-│
-├── README.md                 
-├── 0xpython_programming_functions/
-│       README.md              
-│        0xstudent_grades.py
-│        1xfibonacci_series.py
-│        2xagent_calcul.py
-│        3xis_palindrome.py
-│        4xrecursive_factorial.py
-│        5xeven_list.py
-│
-├── 1x_python_programming_file_handling/
-│        README.md              
-│        0xlog_analyzer.py
-│       1xword_counter.py
-│       2xappend_to_file.py
-│       logs.txt
-    Repository Guidelines
 
-    All exercises are implemented in individual Python scripts.
 
-    Pylint is used to ensure code quality, aiming for a score of 10/10.
+All exercises are implemented in individual Python scripts.
+
+ Pylint is used to ensure code quality, aiming for a score of 10/10.
 
     Input validation and error handling are implemented where necessary.
 

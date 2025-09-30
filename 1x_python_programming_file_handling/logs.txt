@@ -1,0 +1,10 @@
+[INFO] Started
+[ERROR] Failed
+[INFO] Running
+[WARNING] Low memory
+[INFO] Stopped
+[INFO] Started
+[ERROR] Failed
+[INFO] Retrying
+[STATUS] Passed
+[WARNING] Low memory

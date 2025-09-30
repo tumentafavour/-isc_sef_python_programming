@@ -8,23 +8,21 @@ isc_sef_python_programming/
 │
 ├── README.md                 
 ├── 0xpython_programming_functions/
-│   ├── README.md              
-│   ├── 0xstudent_grades.py
-│   ├── 1xfibonacci_series.py
-│   ├── 2xagent_calcul.py
-│   ├── 3xis_palindrome.py
-│   ├── 4xrecursive_factorial.py
-│   ├── 5xeven_list.py
+│       README.md              
+│        0xstudent_grades.py
+│        1xfibonacci_series.py
+│        2xagent_calcul.py
+│        3xis_palindrome.py
+│        4xrecursive_factorial.py
+│        5xeven_list.py
 │
 ├── 1x_python_programming_file_handling/
-│   ├── README.md              
-│   ├── 0xlog_analyzer.py
-│   ├── 1xword_counter.py
-│   ├── 2xappend_to_file.py
-│   ├── logs.txt
-│   ├── sample.txt
-
-Repository Guidelines
+│        README.md              
+│        0xlog_analyzer.py
+│       1xword_counter.py
+│       2xappend_to_file.py
+│       logs.txt
+    Repository Guidelines
 
     All exercises are implemented in individual Python scripts.
 
